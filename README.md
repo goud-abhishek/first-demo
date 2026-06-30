@@ -1,4 +1,4 @@
 # first-demo
 this is my first git repository
 <br/>
-author - abhishek goud 
+author - abhishek goud (github)
